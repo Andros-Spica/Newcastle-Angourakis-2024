@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11145840.svg)](https://doi.org/10.5281/zenodo.11145840)
+
 # From pattern, through process, to mechanism. An introduction to simulation in archaeology<!-- omit from toc --> 
 
 Presentation and exercise materials for a workshop held at the School of History, Classics and Archaeology at the Newcastle University (6 March 2024).

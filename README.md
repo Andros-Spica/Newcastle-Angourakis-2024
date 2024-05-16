@@ -68,7 +68,7 @@ See some examples of conceptual modeling in this tutorial: https://github.com/An
 
 The explanation selected is never final, nor it is a declaration of biased belief (*my* interpretation). It should be the spark and direction of an open-ended process where we order our background knowledge and beliefs in search of logical consistency (formalisation), contrast them with further evidence (validation), and revisit or extend them. 
 
-The formalisation of an explanation is in fact the most challenging task in simulation modelling, especially in domains as complex as archaeology. It involves first of all a way-of-thinking beyond any technical skill, training in mathematics or disciple jargon. Thus, it should be exercised rather than learned.
+The formalisation of an explanation is in fact the most challenging task in simulation modelling, especially in domains as complex as archaeology. It involves first of all a way-of-thinking beyond any technical skill, training in mathematics or discipline-specific jargon. Thus, it should be exercised rather than learned.
 
 If the explanation chosen is present in formal models already developed by others, congratulations, you could probably skip this. However, using, adapting or combining formal models for your own research will require a deep understanding of the formalisation done and how it relates to the terms of your own evidence, question, etc.
 
@@ -78,7 +78,7 @@ As an example, suppose we postulate that:
 
 This general idea could be express more schematically as set of cases or scenarios. Here we are limited to two:
 
->↑ immigration → ↑ population → ↑ settlement area
+>↑ immigration → ↑ population → ↑ settlement area  
 >↓ immigration → ↓ population → ↓ settlement area
 
 We can also simplify this by sketching a causal diagram, a graph where nodes are the "things" that change (*variables* to be) and edges or arrows mark the direction of causality and the sign of the effect (positive or negative):
